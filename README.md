@@ -24,6 +24,7 @@ README.md
 <img width="810" height="600" alt="изображение" src="https://github.com/user-attachments/assets/2fcfc374-0f6c-4ea5-9cce-0ca93ea176e4" />
 
 Диаграмма развёртывания:
+<img width="441" height="841" alt="изображение" src="https://github.com/user-attachments/assets/0f3fbc56-335f-4e24-8e6b-94e69bef3796" />
 
 ---
 ## 📅 Статус
